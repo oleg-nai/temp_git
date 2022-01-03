@@ -5,5 +5,6 @@ text#2text#2text#2text#2
 
 test new feature
 
-
 some new text
+
+test new feature 2
